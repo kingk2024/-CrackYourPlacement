@@ -7,6 +7,8 @@ Arrays : find the duplicate number (https://leetcode.com/problems/find-the-dupli
          two sum (https://leetcode.com/problems/two-sum/)<br/>
          Majority element(https://leetcode.com/problems/majority-element/)<br/>
          Merge Sorted Array (https://leetcode.com/problems/merge-sorted-array/) <br/>
+19-07-2024 : Solved the following questions today<br/>
+Arrays : Sort colors (https://leetcode.com/problems/sort-colors/)
          
          
          
